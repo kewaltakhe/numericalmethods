@@ -12,3 +12,8 @@ Methods contained:
 5. Newton-Raphson method for many unknown
 6. Guass-Jacobi method 
 7. Gauss-Siedel method
+
+
+
+packages used:
+sympy, numpy
