@@ -1,6 +1,6 @@
 # numericalmethods 
 This repository contains the automation of the calculation process of some numerical methods, which when done calculation 
-with hands take too much time.
+with hands take too much time :p .
 
 The jupyter file is marked down with parts containing methods and the usage of these methods is also illustrated. 
 
